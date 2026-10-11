@@ -1,0 +1,1 @@
+const double kWideLayoutBreakpoint = 600;
